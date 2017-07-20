@@ -1,0 +1,25 @@
+{
+  "employee_information": {
+    "name":"Amit Kumar",
+    "full-time":true,
+    "age":"",
+    "knowledge": [
+      {
+        "Department": "Android",
+        "skill set": "Verry Good"
+      },
+      {
+        "Department": "ios",
+       "skill set":"No Knowledge"
+      },
+      {
+        "Department": "HTML",
+        "skill set": "Good"
+      },
+      {
+        "Department": "JSON Parsing",
+        "skill set": "Very Good"
+      }
+    ]
+  }
+}
